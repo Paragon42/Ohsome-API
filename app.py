@@ -17,7 +17,7 @@ import os
 OSME_API_URL = "https://api.ohsome.org/v1"
 
 # Set the OpenAI API key
-openai.api_key = ("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")
+openai.api_key = ("OPENAI_API_KEY")
 
 # Chat template string, to be used for generating Ohsome API queries
 CHAT_TEMPLATE = """Assistant is an expert OpenStreetMap Ohsome API assistant.
